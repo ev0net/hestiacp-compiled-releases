@@ -1,6 +1,6 @@
 <h1 align="center">Hestia Control Panel - Compiled Releases</h1>
 
-OFFICIAL Hestia Control Panel Github: https://github.com/hestiacp/hestiacp
+LINK TO OFFICIAL HESTIA CONTROL PANEL: https://github.com/hestiacp/hestiacp
 
 Because Hestia Control Panel uses implements a "rolling release" framework and doesn't maintain full, compiled, installable releases of past versions of their panel, per their instructions, from time to time, I compile their releases using the instructions here: 
 
